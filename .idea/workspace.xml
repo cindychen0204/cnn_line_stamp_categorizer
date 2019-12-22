@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97e77f6a-4623-4b88-938f-efebb788914e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dcgan-line-stamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dcgan-line-stamp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/rename.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,12 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/line_stamps/RenameLineStamp.py">
+        <entry file="file://$PROJECT_DIR$/App/rename.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="224">
+              <caret line="14" column="90" lean-forward="true" selection-start-line="14" selection-start-column="90" selection-end-line="14" selection-end-column="90" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -57,12 +56,12 @@
         <option value="$PROJECT_DIR$/venv/Scripts/App/rename_categorize_to_avoid_duplicate.py" />
         <option value="$PROJECT_DIR$/venv/line_stamps/アイドル/rename_categorize_to_avoid_duplicate.py" />
         <option value="$PROJECT_DIR$/venv/line_stamps/rename_categorize_to_avoid_duplicate.py" />
+        <option value="$PROJECT_DIR$/App/rename.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1344" />
-    <option name="y" value="13" />
+    <option name="x" value="879" />
     <option name="width" value="1619" />
     <option name="height" value="1047" />
   </component>
@@ -71,7 +70,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,18 +80,34 @@
             <path>
               <item name="cnn_line_stamp_categorizer" type="b2602c69:ProjectViewProjectNode" />
               <item name="cnn_line_stamp_categorizer" type="462c0819:PsiDirectoryNode" />
+              <item name="App" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnn_line_stamp_categorizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnn_line_stamp_categorizer" type="462c0819:PsiDirectoryNode" />
               <item name="line_stamps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cnn_line_stamp_categorizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cnn_line_stamp_categorizer" type="462c0819:PsiDirectoryNode" />
+              <item name="Pictures" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cindy\PycharmProjects\cnn_line_stamp_categorizer\App" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -107,7 +121,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RenameLineStamp">
+  <component name="RunManager" selected="Python.rename">
     <configuration name="RenameLineStamp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dcgan-line-stamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,6 +135,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/line_stamps/RenameLineStamp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rename" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dcgan-line-stamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/App" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/App/rename.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,34 +227,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rename_categorize_to_avoid_duplicate" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="dcgan-line-stamp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Scripts/App/.ipynb_checkpoints" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/App/.ipynb_checkpoints/rename_categorize_to_avoid_duplicate.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rename" />
         <item itemvalue="Python.RenameLineStamp" />
         <item itemvalue="Python.rename_categorize_to_avoid_duplicate (3)" />
         <item itemvalue="Python.rename_categorize_to_avoid_duplicate (2)" />
         <item itemvalue="Python.rename_categorize_to_avoid_duplicate (1)" />
-        <item itemvalue="Python.rename_categorize_to_avoid_duplicate" />
       </list>
     </recent_temporary>
   </component>
@@ -227,10 +241,28 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1344" y="13" width="1619" height="1047" extended-state="0" />
+    <frame x="879" y="0" width="1619" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.257432" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.257432" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32908705" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.51380044" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.2388535" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32908705" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32908705" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.257432" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32908705" />
@@ -239,14 +271,14 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32908705" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.2388535" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32908705" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32908705" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -274,19 +306,37 @@
     <entry file="file://$PROJECT_DIR$/venv/Scripts/App/.ipynb_checkpoints/test.py" />
     <entry file="file://$PROJECT_DIR$/venv/Scripts/App/Untitled.ipynb" />
     <entry file="file://$PROJECT_DIR$/venv/Scripts/App/cnn_model.py" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Scripts/App/.ipynb_checkpoints/rename_categorize_to_avoid_duplicate.py" />
     <entry file="file://$PROJECT_DIR$/venv/Scripts/App/test.py" />
     <entry file="file://$PROJECT_DIR$/venv/Scripts/App/scrape-line-stamp.py" />
     <entry file="file://$PROJECT_DIR$/venv/Scripts/App/rename_categorize_to_avoid_duplicate.py" />
     <entry file="file://$PROJECT_DIR$/venv/line_stamps/アイドル/rename_categorize_to_avoid_duplicate.py" />
     <entry file="file://$PROJECT_DIR$/venv/line_stamps/rename_categorize_to_avoid_duplicate.py" />
-    <entry file="file://$PROJECT_DIR$/line_stamps/RenameLineStamp.py">
+    <entry file="file://$PROJECT_DIR$/line_stamps/RenameLineStamp.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/cnn_model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="64">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/scrape-line-stamp.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/rename.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="90" lean-forward="true" selection-start-line="14" selection-start-column="90" selection-end-line="14" selection-end-column="90" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
