@@ -1,13 +1,9 @@
 import glob
 import os
 
-
 line_stamps_path = "../line_stamps/"
-
 categories = os.listdir(line_stamps_path)
-#print
 
-files = []
 for category in categories:
     files = glob.glob(line_stamps_path + category + "/*.png")
     for i, old_fileName in enumerate(files):
