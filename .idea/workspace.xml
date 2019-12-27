@@ -2,940 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97e77f6a-4623-4b88-938f-efebb788914e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/App/predict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dcgan-line-stamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dcgan-line-stamp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/rename.py" beforeDir="false" afterPath="$PROJECT_DIR$/App/rename.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pictures/208/13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pictures/208/14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pictures/208/21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pictures/208/32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pictures/209/23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pictures/210/34.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pictures/210/71.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pictures/210/79.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pictures/211/17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pictures/211/24.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pictures/211/25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pictures/211/27.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pictures/213/63.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pictures/213/74.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pictures/213/79.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pictures/218/40.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pictures/218/46.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pictures/218/48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pictures/218/53.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pictures/218/69.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0002.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0003.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0004.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0005.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0006.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0007.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0008.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0009.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0010.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0011.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0012.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0013.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0014.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0015.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0016.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0017.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0018.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0019.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0020.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0040.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0041.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0066.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0067.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0183.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0184.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0201.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0202.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/021.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0215.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0216.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0217.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0218.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0219.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/022.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0220.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0221.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0222.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0223.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0224.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0225.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0226.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0227.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0228.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0229.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/023.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0230.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0231.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0232.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0233.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0234.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0235.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0236.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0237.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0238.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0239.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0241.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0242.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0243.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0244.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0245.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0246.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0247.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0248.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0249.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/025.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0250.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0251.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0252.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0253.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/0254.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/026.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/027.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/028.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/029.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/030.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/031.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/032.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/033.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/034.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/035.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/036.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/037.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/038.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/039.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/042.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/043.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/044.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/045.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/046.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/047.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/048.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/049.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/050.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/051.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/052.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/053.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/054.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/055.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/056.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/057.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/058.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/059.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/060.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/061.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/062.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/063.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/064.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/065.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/068.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/069.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/070.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/071.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/072.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/073.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/074.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/075.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/076.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/077.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/078.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/079.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/080.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/081.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/082.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/083.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/084.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/085.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/086.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/087.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/088.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/089.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/090.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/091.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/092.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/093.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/094.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/095.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/096.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/097.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/098.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/099.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/101.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/102.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/103.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/104.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/105.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/106.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/107.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/108.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/109.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/110.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/111.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/112.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/113.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/115.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/116.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/117.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/118.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/119.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/121.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/122.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/123.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/124.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/125.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/126.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/127.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/129.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/130.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/131.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/132.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/133.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/134.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/135.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/136.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/137.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/138.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/139.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/140.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/141.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/142.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/143.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/145.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/146.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/147.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/148.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/149.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/151.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/153.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/154.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/155.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/156.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/157.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/158.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/159.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/160.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/161.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/162.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/163.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/164.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/165.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/166.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/167.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/168.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/169.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/170.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/171.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/172.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/173.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/174.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/175.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/176.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/177.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/178.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/179.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/180.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/181.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/182.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/185.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/186.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/187.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/188.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/189.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/190.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/191.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/193.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/194.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/195.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/196.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/197.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/198.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/199.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/200.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/203.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/204.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/205.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/206.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/207.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/208.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/209.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/210.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/211.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/212.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/213.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/Happy/214.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/002.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/003.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/004.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/005.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/006.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/007.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/008.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/009.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/010.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/011.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/012.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/0127.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/0128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/013.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/014.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/015.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/016.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/017.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/018.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/019.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/020.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/021.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/022.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/023.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/025.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/026.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/027.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/028.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/029.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/030.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/031.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/032.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/033.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/034.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/035.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/036.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/037.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/038.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/039.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/040.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/041.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/042.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/043.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/044.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/045.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/046.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/047.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/048.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/049.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/050.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/051.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/052.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/053.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/054.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/055.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/056.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/057.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/058.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/059.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/060.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/061.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/062.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/063.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/064.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/065.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/066.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/067.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/068.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/069.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/070.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/071.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/072.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/073.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/074.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/075.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/076.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/077.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/078.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/079.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/080.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/081.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/082.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/083.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/084.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/085.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/086.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/087.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/088.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/089.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/090.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/091.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/092.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/093.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/094.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/095.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/096.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/097.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/098.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/099.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/101.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/102.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/103.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/104.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/105.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/106.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/107.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/108.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/109.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/110.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/111.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/112.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/113.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/115.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/116.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/117.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/118.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/119.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/121.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/122.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/123.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/124.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/125.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/angry/126.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/002.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/003.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/004.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/005.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/006.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/007.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/008.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/009.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/0098.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/0099.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/010.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/011.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/012.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/013.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/014.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/015.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/016.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/017.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/018.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/019.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/020.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/021.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/022.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/023.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/025.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/026.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/027.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/028.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/029.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/030.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/031.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/032.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/033.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/034.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/035.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/036.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/037.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/038.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/039.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/040.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/041.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/042.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/043.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/044.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/045.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/046.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/047.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/048.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/049.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/050.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/051.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/052.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/053.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/054.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/055.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/056.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/057.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/058.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/059.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/060.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/061.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/062.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/063.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/064.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/065.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/066.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/067.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/068.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/069.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/070.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/071.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/072.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/073.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/074.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/075.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/076.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/077.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/078.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/079.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/080.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/081.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/082.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/083.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/084.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/085.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/086.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/087.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/088.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/089.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/090.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/091.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/092.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/093.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/094.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/095.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/096.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/excited/097.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/002.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/003.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/004.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/005.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/006.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/007.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/008.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/009.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/010.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/011.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/012.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/013.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/014.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/015.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/016.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/017.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/018.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/019.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/020.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/021.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/022.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/023.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/025.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/026.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/027.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/028.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/029.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/030.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/031.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/032.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/033.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/034.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/fear/035.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/photos_stamps_add.npz" beforeDir="false" afterPath="$PROJECT_DIR$/line_stamps/photos_stamps_add.npz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/002.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/003.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/004.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/005.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/006.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/007.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/008.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/009.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/010.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/011.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/012.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/013.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/014.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/015.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/016.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/017.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/018.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/019.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/0199.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/020.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/0200.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/021.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/022.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/023.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/0231.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/0232.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/0233.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/0234.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/0235.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/0236.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/0237.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/0238.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/025.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/026.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/027.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/028.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/029.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/030.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/031.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/032.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/033.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/034.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/035.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/036.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/037.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/038.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/039.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/040.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/041.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/042.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/043.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/044.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/045.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/046.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/047.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/048.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/049.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/050.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/051.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/052.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/053.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/054.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/055.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/056.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/057.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/058.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/059.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/060.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/061.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/062.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/063.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/064.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/065.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/066.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/067.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/068.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/069.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/070.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/071.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/072.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/073.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/074.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/075.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/076.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/077.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/078.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/079.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/080.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/081.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/082.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/083.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/084.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/085.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/086.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/087.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/088.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/089.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/090.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/091.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/092.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/093.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/094.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/095.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/096.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/097.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/098.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/099.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/101.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/102.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/103.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/104.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/105.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/106.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/107.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/108.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/109.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/110.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/111.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/112.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/113.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/115.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/116.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/117.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/118.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/119.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/121.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/122.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/123.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/124.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/125.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/126.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/127.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/129.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/130.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/131.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/132.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/133.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/134.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/135.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/136.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/137.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/138.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/139.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/140.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/141.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/142.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/143.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/145.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/146.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/147.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/148.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/149.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/151.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/153.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/154.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/155.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/156.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/157.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/158.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/159.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/160.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/161.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/162.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/163.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/164.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/165.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/166.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/167.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/168.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/169.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/170.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/171.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/172.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/173.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/174.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/175.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/176.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/177.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/178.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/179.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/180.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/181.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/182.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/183.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/184.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/185.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/186.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/187.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/188.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/189.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/190.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/191.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/193.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/194.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/195.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/196.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/197.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/198.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/201.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/202.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/203.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/204.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/205.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/206.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/207.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/208.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/209.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/210.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/211.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/212.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/213.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/214.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/215.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/216.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/217.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/218.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/219.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/220.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/221.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/222.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/223.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/224.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/225.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/226.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/227.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/228.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/229.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/230.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/239.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/241.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/242.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/243.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/244.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/245.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/sad/246.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/002.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/003.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/004.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/005.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/006.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/007.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/008.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/009.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/010.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/011.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/012.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/013.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/014.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/015.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/016.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/017.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/018.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/019.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/020.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/021.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/022.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/023.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/025.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/026.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/027.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/028.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/029.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/030.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/031.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/032.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/033.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/034.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/035.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/036.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/037.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/038.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/039.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/040.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/041.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/042.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/043.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/044.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/045.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/046.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/047.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/048.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/049.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/050.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/051.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/052.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/053.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/054.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/055.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/056.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/057.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/058.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/059.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/060.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/061.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/062.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/063.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/064.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/065.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/066.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/067.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/068.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/069.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/070.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/071.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/072.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/073.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/074.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/075.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/076.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/077.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/078.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/079.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/080.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/081.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/082.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/083.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/084.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/085.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/086.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/087.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/088.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/089.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/090.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/091.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/092.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/093.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/094.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/095.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/096.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/097.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/098.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/099.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/101.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/102.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/103.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/104.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/105.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/106.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/107.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/108.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/109.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/110.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/111.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/112.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/113.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/115.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/116.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/117.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/118.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/119.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/121.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/122.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/123.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/124.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/125.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/126.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/127.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/129.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/130.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/131.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/132.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/133.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/134.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/135.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/136.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/137.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/138.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/line_stamps/shock/139.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/App/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/test.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -969,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/App/predict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+            <state relative-caret-position="144">
+              <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -990,20 +59,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App/training.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="23" />
+            <state relative-caret-position="96">
+              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="21" selection-start-column="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -1062,8 +122,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1994" />
-    <option name="width" value="1495" />
+    <option name="x" value="746" />
+    <option name="y" value="8" />
+    <option name="width" value="1675" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -1239,14 +300,14 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1994" y="0" width="1495" height="1047" extended-state="0" />
+    <frame x="746" y="8" width="1675" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35209334" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31337813" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32908705" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.43630573" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.43630573" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1309,6 +370,13 @@
     <entry file="file://$PROJECT_DIR$/App/Untitled.ipynb" />
     <entry file="file://$PROJECT_DIR$/line_stamps/嬉しい/0000.png" />
     <entry file="file://$PROJECT_DIR$/App/convertToNumpy.py" />
+    <entry file="file://$PROJECT_DIR$/App/cnn_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/App/scrape-line-stamp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
@@ -1319,24 +387,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/convert2Numpy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/App/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App/cnn_model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1350,10 +404,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/App/convert2Numpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/App/training.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="23" />
+        <state relative-caret-position="96">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
@@ -1362,8 +423,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/App/predict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        <state relative-caret-position="144">
+          <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
