@@ -1,9 +1,10 @@
 ﻿# CNNモデルを使ったLineスタンプ分類器
 
-Tensorflow-gpu == 1.8.0
-CUDA == 9.0
-Python == 3.5
-Keras == 2.1.5
+- Tensorflow-gpu == 1.8.0 <br>
+
+- CUDA == 9.0 <br>
+- Python == 3.5 <br>
+- Keras == 2.1.5 <br>
 
 ## 各スクリプトの説明
 
@@ -17,6 +18,8 @@ Keras == 2.1.5
 
 実行順： convert2Numpy.py  →　training.py → predict.py 
 
+ <br>
+ 
 ## 参考
 
 [ラーメンを本気で分類してみた](https://blog.aidemy.net/entry/2018/12/23/022554)
