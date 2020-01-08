@@ -10,6 +10,8 @@ Settings:
 
 labels = ['angry', 'excited', 'fear', 'happy', 'sad', 'shock']
 
+<br>
+
 ## Scripts Description
 
 - scrape-line-stamp.py →　scrape line sitcker from [line sticker shop](https://store.line.me/stickershop/showcase/top_creators/) into "Pictures" floder
