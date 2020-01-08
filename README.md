@@ -12,7 +12,7 @@ labels = ['angry', 'excited', 'fear', 'happy', 'sad', 'shock']
 
 <br>
 
-## Scripts Description
+# Scripts Description
 
 - scrape-line-stamp.py →　scrape line sitcker from [line sticker shop](https://store.line.me/stickershop/showcase/top_creators/) into "Pictures" floder
                         reference：[LINEスタンプをDeepLearningで自動生成してみる【Part 2】](https://qiita.com/enmaru/items/1d65307ca46264bf6259)
@@ -22,9 +22,33 @@ labels = ['angry', 'excited', 'fear', 'happy', 'sad', 'shock']
 - training.py : do training
 - predict.py : check the result
 
-実行順： scrape-line-stamp.py　→　(manually) categorize　→　rename.py →　convert2Numpy.py  →　training.py → predict.py 
+Script Execution Order： scrape-line-stamp.py　→　(manually) categorize　→　rename.py →　convert2Numpy.py  →　training.py → predict.py 
 
  <br>
+
+
+# Result: (2020/01/08)
+
+<br>
+
+1.<br> [![Image from Gyazo](https://i.gyazo.com/b2bf4ead7364bcde4dc3fa3e0861901e.png)](https://gyazo.com/b2bf4ead7364bcde4dc3fa3e0861901e) <br>
+result: "happy" with 70% accuracy. <br>
+
+<br>
+
+2.<br> [![Image from Gyazo](https://i.gyazo.com/49bfa7527873ade53758226a39a6af69.png)](https://gyazo.com/49bfa7527873ade53758226a39a6af69) <br>
+result: "angry" with 84% accuracy. <br>
+<br>
+
+3.<br> [![Image from Gyazo](https://i.gyazo.com/bdfd237cb19cbb5a69ad65fb8fb15948.png)](https://gyazo.com/bdfd237cb19cbb5a69ad65fb8fb15948) <br>
+result: "angry" with 77% accuracy. -> wrong result : sad <br>
+<br>
+
+4.<br> [![Image from Gyazo](https://i.gyazo.com/969cf956e10e2f4521d29f22d9f5115e.png)](https://gyazo.com/969cf956e10e2f4521d29f22d9f5115e) <br>
+result: "angry" with 98% accuracy. -> wrong result : shock <br>
+<br>
+
+
 
 
 (日本語)
@@ -39,7 +63,7 @@ labels = ['angry', 'excited', 'fear', 'happy', 'sad', 'shock']
 
 <br>
 
-## 各スクリプトの説明
+# 各スクリプトの説明
 
 - scrape-line-stamp.py →　ラインのスタンプを一括ダウンロードする (保存先はPicturesフォルダー)
                         参考：[LINEスタンプをDeepLearningで自動生成してみる【Part 2】](https://qiita.com/enmaru/items/1d65307ca46264bf6259)
@@ -51,7 +75,26 @@ labels = ['angry', 'excited', 'fear', 'happy', 'sad', 'shock']
 
 実行順： scrape-line-stamp.py　→　(手動で)分類　→　rename.py →　convert2Numpy.py  →　training.py → predict.py 
 
- <br>
+
+# 結果
+<br>
+
+1.<br> [![Image from Gyazo](https://i.gyazo.com/b2bf4ead7364bcde4dc3fa3e0861901e.png)](https://gyazo.com/b2bf4ead7364bcde4dc3fa3e0861901e) <br>
+result: "happy" with 70% accuracy. <br>
+
+<br>
+
+2.<br> [![Image from Gyazo](https://i.gyazo.com/49bfa7527873ade53758226a39a6af69.png)](https://gyazo.com/49bfa7527873ade53758226a39a6af69) <br>
+result: "angry" with 84% accuracy. <br>
+<br>
+
+3.<br> [![Image from Gyazo](https://i.gyazo.com/bdfd237cb19cbb5a69ad65fb8fb15948.png)](https://gyazo.com/bdfd237cb19cbb5a69ad65fb8fb15948) <br>
+result: "angry" with 77% accuracy. -> wrong result : sad <br>
+<br>
+
+4.<br> [![Image from Gyazo](https://i.gyazo.com/969cf956e10e2f4521d29f22d9f5115e.png)](https://gyazo.com/969cf956e10e2f4521d29f22d9f5115e) <br>
+result: "angry" with 98% accuracy. -> wrong result : shock <br>
+<br>
  
 ## 参考
 
