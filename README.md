@@ -8,7 +8,7 @@ Settings:
 - Python == 3.5 <br>
 - Keras == 2.1.5 <br>
 
-labels = ['angry', 'excited', 'fear', 'Happy', 'sad', 'shock']
+labels = ['angry', 'excited', 'fear', 'happy', 'sad', 'shock']
 
 ## Scripts Description
 
