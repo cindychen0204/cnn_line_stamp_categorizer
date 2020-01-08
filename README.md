@@ -16,7 +16,7 @@
 - training.py : 学習する
 - predict.py : 学習結果を検証する
 
-実行順： convert2Numpy.py  →　training.py → predict.py 
+実行順： scrape-line-stamp.py　→　分類　→　rename.py →　convert2Numpy.py  →　training.py → predict.py 
 
  <br>
  
