@@ -4,32 +4,32 @@ import matplotlib.pyplot as plt
 import numpy as np
 import cv2
 
-#好きな画像を指定してください
+# DECIDE TEST DATA
 PHOTO = "../line_stamps/testimages/sad-5.png"
 
-labels = ['angry', 'excited', 'fear', 'Happy', 'sad', 'shock']
-model=cnn_model.get_model((32,32,3),7)#画像のshape、ラベルデータの数
+labels = ['angry', 'excited', 'fear', 'happy', 'sad', 'shock']
+model=cnn_model.get_model((32, 32, 3), 7)  # shape of stamps, and labels number
 model.load_weights("../line_stamps/stamp-model-light_add.hdf5")
 
-img=cv2.imread(PHOTO)
-img=cv2.resize(img, (32,32))#画像のshape
-img=cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
-#plt.imshow(img)
-#plt.show()
+img = cv2.imread(PHOTO)
+img = cv2.resize(img, (32,32))
+img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+# plt.imshow(img)
+# plt.show()
 
-#array
-x=np.asarray(img)
-x=x.reshape(-1,32,32,3)#画像のshape
-x=x/255
+# array
+x = np.asarray(img)
+x = x.reshape(-1, 32, 32, 3)
+x = x/255
 
-#予測する
-pre=model.predict([x])[0]
-idx=pre.argmax()
-per=int(pre[idx]*100)
+# start predict
+pre = model.predict([x])[0]
+idx = pre.argmax()
+per = int(pre[idx]*100)
 
-print(per, " with ",  labels[idx])
+print(per, " with ", labels[idx])
 
 if per >= 60:
-    print("これは"+str(per)+"%の確率で"+labels[idx]+"です。")
+    print("This is " + labels[idx] + " with " + str(per) + "% accuracy.")
 else:
-    print("よくわかりません。")
+    print("I do not know。")

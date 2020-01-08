@@ -1,47 +1,37 @@
-#かわいいスタンプのランキング上位から順番に保存する
+#reference : https://qiita.com/enmaru/items/1d65307ca46264bf6259
 import requests
 import os
 from bs4 import BeautifulSoup
 
-#htmlのソースから画像リンクを抽出するための関数
-def rem(string):
-    print(string)
-    str0 = str(string).split("(")[1]
-    return str0.split(";")[0]
 
-#スタンプセットのNo.(指定した番号から始まり、セットごとにフォルダが生成される)
-setname = 467
-chara = "&character=" + str(10) #　10: ネコ, 11:ウサギ, 12:イヌ, 13:クマ, 14:鳥, 19:パンダ, 20:アザラシ
-#キャラクター指定せずにすべてを対象とする場合
-chara = ""
+setNumber = 0
+chara = "&character=" + str(10)
 
-#「カワイイ・キュート」ジャンルのスタンプを昇順に並べ、ページごとにデータを取得する
-for page in range(14,20):
-    ranking_url = 'https://store.line.me/stickershop/showcase/top_creators/ja?taste=1'+ str(chara) + '&page=' + str(page)
+for page in range(14, 20):
+    ranking_url = 'https://store.line.me/stickershop/showcase/top_creators/ja?taste=1' + str(chara) + '&page=' + str(page)
     print("download from " + ranking_url)
-    ran = requests.get(ranking_url)         #requestsを使って、webから取得
-    soup0 = BeautifulSoup(ran.text, 'lxml') #要素を抽出
-    stamp_list = soup0.find_all(class_="mdCMN02Li") #ソースの中でスタンプ一覧の箇所を探してリストに格納
+    ran = requests.get(ranking_url)
+    soup0 = BeautifulSoup(ran.text, 'lxml')
+    stamp_list = soup0.find_all(class_="mdCMN02Li")  # find stamp list
     for i in stamp_list:
-        target_url = "https://store.line.me" + i.a.get("href") #スタンプセットに含まれる画像を表示させるページのリンク
-        #target_url = 'https://store.line.me/stickershop/product/3882252/ja'
-        r = requests.get(target_url)         #requestsを使って、webから取得
-        setname += 1
-        new_dir_path = "../pictures/"+ str(setname) #スタンプセットのNo.に対応するフォルダを作成する
-        os.makedirs(new_dir_path, exist_ok=True) #フォルダが存在しない場合作成する
-        soup = BeautifulSoup(r.text, 'lxml') #要素を抽出
-        span_list = soup.findAll("span",{"class":"mdCMN09Image"}) #スタンプセットに含まれる画像の情報をリストに格納
+        target_url = "https://store.line.me" + i.a.get("href")
+        r = requests.get(target_url)
+        setNumber += 1
+        new_dir_path = "../pictures/" + str(setNumber)
+        os.makedirs(new_dir_path, exist_ok=True)  # create picture folder if does not exit
+        soup = BeautifulSoup(r.text, 'lxml')  # extract element
+        span_list = soup.findAll("span", {"class": "mdCMN09Image"})
 
-        fname = 0 #ダウンロードする画像データの名称
-        for i in span_list:
-            if i.get("style") is not None:
-                fname += 1
-                imgsrc = rem(i.get("style")) #画像データのURLを取得
-                req = requests.get(imgsrc)
+        fileName = 0  # stamp name
+        for j in span_list:
+            if j.get("style") is not None:
+                fileName += 1
+                img_src = rem(j.get("style"))  # get stamp url
+                req = requests.get(img_src)
 
                 if r.status_code == 200:
-                    f = open( "../pictures/"+ str(setname) + "/" + str(fname) + ".png", 'wb')
+                    f = open("../pictures/" + str(setNumber) + "/" + str(fileName) + ".png", 'wb')
                     f.write(req.content)
                     f.close()
 
-    print ("finished downloading page: " + str(page) + " , set: ~" + str(setname)  )
+    print("finished downloading page: " + str(page) + " , set: ~" + str(setNumber))
