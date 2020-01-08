@@ -6,6 +6,10 @@
 - Python == 3.5 <br>
 - Keras == 2.1.5 <br>
 
+ラベル設定labels = ['angry', 'excited', 'fear', 'Happy', 'sad', 'shock']
+
+<br>
+
 ## 各スクリプトの説明
 
 - scrape-line-stamp.py →　ラインのスタンプを一括ダウンロードする
